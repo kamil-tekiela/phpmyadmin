@@ -117,6 +117,7 @@
         "phpunit/phpunit": "^10.4",
         "pragmarx/google2fa-qrcode": "^3.0",
         "psalm/plugin-phpunit": "^0.18.4",
+        "rector/rector": "^1",
         "roave/security-advisories": "dev-latest",
         "symfony/console": "^6.2",
         "tecnickcom/tcpdf": "^6.4.4",
